@@ -1,8 +1,8 @@
 # Pokédex
 
 ## Requirements 📋
-* iOS 13.0+
-* Xcode 12.2
+* iOS 14.0+
+* Xcode 14.0
 * Have a way to show all pokémon in order and separated by generation 1, 2, 3 & 4.  ✔️
 * When a pokémon is tapped, the app should display another view that contains the following  ✔️
 * info:
